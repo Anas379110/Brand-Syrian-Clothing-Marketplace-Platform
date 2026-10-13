@@ -1,21 +1,20 @@
-# منصة سوق الملابس السورية
-**Syrian Clothing Marketplace Platform** · التصنيف: منصة تجارية
+# Syrian Clothing Marketplace Platform
+**Syrian Clothing Marketplace Platform** · Category: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-منصة تجارة إلكترونية متعددة البائعين لبيع الملابس، مع نظام دفع محمي بـ Escrow وربط دفع محلي.
+## Overview
+A multi-vendor e-commerce platform for selling clothing, with an Escrow-protected payment system and local payment integration.
 
-## أبرز النقاط
-- معمارية Modular Monolith (NestJS + Prisma) مصممة للانتقال لاحقاً إلى Microservices عند الحاجة
-- نظام Escrow يحمي المشتري والبائع، إضافة لدعم شام كاش والدفع عند الاستلام
-- واجهة PWA (Next.js + Tailwind) مع بحث وفلترة كاملة وتتبع حالة الطلب
+## Highlights
+- Modular Monolith architecture (NestJS + Prisma) designed for later migration to Microservices if needed
+- Escrow system that protects buyer and seller, plus support for Sham Cash and cash on delivery
+- PWA front-end (Next.js + Tailwind) with full search and filtering and order status tracking
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء المنصة والواجهة والخلفية وقاعدة البيانات.
+## Role
+Business Platforms Developer: requirements analysis and building the platform, front-end, back-end, and database.
 
-## التقنيات المستخدمة
+## Technologies used
 Next.js, NestJS, TypeScript, PostgreSQL, Prisma, Tailwind CSS, PWA
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

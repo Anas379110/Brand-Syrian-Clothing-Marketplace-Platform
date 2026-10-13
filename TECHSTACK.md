@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — منصة سوق الملابس السورية
+# 🛠️ Technologies Used — Syrian Clothing Marketplace Platform
 
 - Next.js
 - NestJS
